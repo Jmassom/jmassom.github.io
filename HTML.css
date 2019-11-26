@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(110, 175, 228); 
+}
+body{
+    font-size: 25px; 
+    color: rgb(45, 47, 49);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
